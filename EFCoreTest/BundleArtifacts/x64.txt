@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Anand_Kumar04\source\repos\EFCoreTest\EFCoreTest\bin\x64\Release\EFCoreTest_1.14.10.0_x64.msix
+SymbolPackage=C:\Users\Anand_Kumar04\source\repos\EFCoreTest\EFCoreTest\AppPackages\EFCoreTest_1.14.10.0_Test\EFCoreTest_1.14.10.0_x64.appxsym
